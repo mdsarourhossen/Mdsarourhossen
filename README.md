@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md sarour hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md sarour hossain" height="30" width="40" /></a>
-<a href="https://fb.com/sk munna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk munna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/door collection" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="door collection" height="30" width="40" /></a>
+<a href="https://www.facebook.com/skmunna.munna.125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk munna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/door collection" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CNC DOOR COLLCTION" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
